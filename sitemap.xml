@@ -7,7 +7,31 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://nl.deliveroo.news/news/speelschema-wk-2018-beinvloedt-bestelgedrag-bij-deliveroo.html</loc>
+    <lastmod>2018-08-28T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://nl.deliveroo.news/news/brunchen-in-bed.html</loc>
+    <lastmod>2018-08-28T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://nl.deliveroo.news/news/speelschema-wk-2018-beinvloedt-bestelgedrag-bij-deliveroo.html</loc>
+    <lastmod>2018-08-28T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://nl.deliveroo.news/news/deliveroo-steunt-duurzaamheidsdoelstellingen-door-uitgifte-100000-biologisch-afbreekbare-rietjes.html</loc>
+    <lastmod>2018-08-28T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://nl.deliveroo.news/news/deliveroo-breidt-dienstverlening-uit-met-nieuwe-restaurants.html</loc>
     <lastmod>2018-08-28T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -73,13 +97,109 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://nl.deliveroo.news/tag/bezorgers.html</loc>
+    <loc>https://nl.deliveroo.news/tag/wk-2018.html</loc>
+    <lastmod>2018-08-28T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://nl.deliveroo.news/tag/eten-bestellen.html</loc>
+    <lastmod>2018-08-28T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://nl.deliveroo.news/tag/wk.html</loc>
+    <lastmod>2018-08-28T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://nl.deliveroo.news/tag/bestelgedrag.html</loc>
     <lastmod>2018-08-28T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://nl.deliveroo.news/tag/deliveroo.html</loc>
+    <lastmod>2018-08-28T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://nl.deliveroo.news/tag/voetbal.html</loc>
+    <lastmod>2018-08-28T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://nl.deliveroo.news/tag/marketplace.html</loc>
+    <lastmod>2018-08-28T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://nl.deliveroo.news/tag/marktplaats.html</loc>
+    <lastmod>2018-08-28T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://nl.deliveroo.news/tag/nieuwe-service.html</loc>
+    <lastmod>2018-08-28T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://nl.deliveroo.news/tag/uitbreiding.html</loc>
+    <lastmod>2018-08-28T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://nl.deliveroo.news/tag/bezorgservice.html</loc>
+    <lastmod>2018-08-28T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://nl.deliveroo.news/tag/duurzaam.html</loc>
+    <lastmod>2018-08-28T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://nl.deliveroo.news/tag/rietjes.html</loc>
+    <lastmod>2018-08-28T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://nl.deliveroo.news/tag/biologisch.html</loc>
+    <lastmod>2018-08-28T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://nl.deliveroo.news/tag/startup.html</loc>
+    <lastmod>2018-08-28T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://nl.deliveroo.news/tag/scaleup.html</loc>
+    <lastmod>2018-08-28T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://nl.deliveroo.news/tag/uk.html</loc>
+    <lastmod>2018-08-28T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://nl.deliveroo.news/tag/bezorgers.html</loc>
     <lastmod>2018-08-28T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -145,24 +265,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://nl.deliveroo.news/tag/uk.html</loc>
-    <lastmod>2018-08-28T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://nl.deliveroo.news/tag/bezorgservice.html</loc>
-    <lastmod>2018-08-28T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://nl.deliveroo.news/tag/eten-bestellen.html</loc>
-    <lastmod>2018-08-28T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://nl.deliveroo.news/tag/eten-bezorgenl.html</loc>
     <lastmod>2018-08-28T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -170,18 +272,6 @@
   </url>
   <url>
     <loc>https://nl.deliveroo.news/tag/knoflook.html</loc>
-    <lastmod>2018-08-28T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://nl.deliveroo.news/tag/startup.html</loc>
-    <lastmod>2018-08-28T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://nl.deliveroo.news/tag/scaleup.html</loc>
     <lastmod>2018-08-28T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -242,6 +332,12 @@
   </url>
   <url>
     <loc>https://nl.deliveroo.news/deliveroo.html</loc>
+    <lastmod>2018-08-28T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://nl.deliveroo.news/page/2/</loc>
     <lastmod>2018-08-28T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>

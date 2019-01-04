@@ -175,6 +175,30 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://nl.deliveroo.news/tag/groei.html</loc>
+    <lastmod>2019-01-04T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://nl.deliveroo.news/tag/deliveroo-2017.html</loc>
+    <lastmod>2019-01-04T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://nl.deliveroo.news/tag/eten-bestellen.html</loc>
+    <lastmod>2019-01-04T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://nl.deliveroo.news/tag/maaltijdbezorger.html</loc>
+    <lastmod>2019-01-04T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://nl.deliveroo.news/tag/smartphonehouders.html</loc>
     <lastmod>2019-01-04T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -331,12 +355,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://nl.deliveroo.news/tag/groei.html</loc>
-    <lastmod>2019-01-04T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://nl.deliveroo.news/tag/taiwan.html</loc>
     <lastmod>2019-01-04T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -386,12 +404,6 @@
   </url>
   <url>
     <loc>https://nl.deliveroo.news/tag/bezorgdienst.html</loc>
-    <lastmod>2019-01-04T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://nl.deliveroo.news/tag/eten-bestellen.html</loc>
     <lastmod>2019-01-04T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>

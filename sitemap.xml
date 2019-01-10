@@ -97,6 +97,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://nl.deliveroo.news/news/fiets-m-erin-dat-goede-voornemen.html</loc>
+    <lastmod>2019-01-10T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://nl.deliveroo.news/news/bestel-hier-dag-in.html</loc>
     <lastmod>2019-01-10T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -206,6 +212,54 @@
   </url>
   <url>
     <loc>https://nl.deliveroo.news/tag/samenwerking-albert-heijn.html</loc>
+    <lastmod>2019-01-10T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://nl.deliveroo.news/tag/healthy-food-wall.html</loc>
+    <lastmod>2019-01-10T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://nl.deliveroo.news/tag/goede-voornemens.html</loc>
+    <lastmod>2019-01-10T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://nl.deliveroo.news/tag/gezonde-snack.html</loc>
+    <lastmod>2019-01-10T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://nl.deliveroo.news/tag/fiets-m-erin.html</loc>
+    <lastmod>2019-01-10T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://nl.deliveroo.news/tag/ontbijt.html</loc>
+    <lastmod>2019-01-10T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://nl.deliveroo.news/tag/lunch.html</loc>
+    <lastmod>2019-01-10T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://nl.deliveroo.news/tag/avondeten.html</loc>
+    <lastmod>2019-01-10T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://nl.deliveroo.news/tag/gratis.html</loc>
     <lastmod>2019-01-10T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -661,12 +715,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://nl.deliveroo.news/tag/ontbijt.html</loc>
-    <lastmod>2019-01-10T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://nl.deliveroo.news/tag/schiphol.html</loc>
     <lastmod>2019-01-10T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -698,6 +746,12 @@
   </url>
   <url>
     <loc>https://nl.deliveroo.news/tag/deliveroo/page/2.html</loc>
+    <lastmod>2019-01-10T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://nl.deliveroo.news/tag/deliveroo/page/3.html</loc>
     <lastmod>2019-01-10T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>

@@ -4,4 +4,4 @@ Disallow: /search/
 Disallow: /tags/
 Allow: /
 
-Sitemap: https://nl.deliveroo.news/sitemap.xml
+Sitemap: https://be.deliveroo.news/sitemap.xml

@@ -355,6 +355,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://nl.deliveroo.news/news/deliveroo-komt-naar-almere.html</loc>
+    <lastmod>2019-10-08T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://nl.deliveroo.news/news/de-pizzabakkers-viert-tienjarig-bestaan.html</loc>
     <lastmod>2019-10-08T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -403,30 +409,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://nl.deliveroo.news/tag/bezorgmaaltijden.html</loc>
-    <lastmod>2019-10-08T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://nl.deliveroo.news/tag/vierjarig-bestaan.html</loc>
-    <lastmod>2019-10-08T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://nl.deliveroo.news/tag/geliefde-keukens.html</loc>
-    <lastmod>2019-10-08T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://nl.deliveroo.news/tag/amsterdam.html</loc>
-    <lastmod>2019-10-08T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://nl.deliveroo.news/tag/almere.html</loc>
     <lastmod>2019-10-08T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -446,6 +428,30 @@
   </url>
   <url>
     <loc>https://nl.deliveroo.news/tag/restaurants.html</loc>
+    <lastmod>2019-10-08T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://nl.deliveroo.news/tag/bezorgmaaltijden.html</loc>
+    <lastmod>2019-10-08T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://nl.deliveroo.news/tag/vierjarig-bestaan.html</loc>
+    <lastmod>2019-10-08T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://nl.deliveroo.news/tag/geliefde-keukens.html</loc>
+    <lastmod>2019-10-08T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://nl.deliveroo.news/tag/amsterdam.html</loc>
     <lastmod>2019-10-08T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>

@@ -247,12 +247,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://nl.deliveroo.news/news/streetfood-night-by-ron-blaauw-deliveroo.html</loc>
-    <lastmod>2019-11-20T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://nl.deliveroo.news/news/amerikaanse-ambassadeur-pete-hoekstra-ontvangt-eerste-haagse-five-guys-bezorging.html</loc>
     <lastmod>2019-11-20T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -421,36 +415,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://nl.deliveroo.news/tag/culinair-feest.html</loc>
-    <lastmod>2019-11-20T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://nl.deliveroo.news/tag/1-jarige-samenwerking.html</loc>
-    <lastmod>2019-11-20T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://nl.deliveroo.news/tag/deliveroo.html</loc>
-    <lastmod>2019-11-20T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://nl.deliveroo.news/tag/ron-blaauw.html</loc>
-    <lastmod>2019-11-20T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://nl.deliveroo.news/tag/ron-gastrobar-downtown.html</loc>
-    <lastmod>2019-11-20T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://nl.deliveroo.news/tag/afhaaloptie.html</loc>
     <lastmod>2019-11-20T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -524,6 +488,12 @@
   </url>
   <url>
     <loc>https://nl.deliveroo.news/tag/editions.html</loc>
+    <lastmod>2019-11-20T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://nl.deliveroo.news/tag/ron-blaauw.html</loc>
     <lastmod>2019-11-20T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -638,6 +608,12 @@
   </url>
   <url>
     <loc>https://nl.deliveroo.news/tag/marketplace.html</loc>
+    <lastmod>2019-11-20T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://nl.deliveroo.news/tag/deliveroo.html</loc>
     <lastmod>2019-11-20T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>

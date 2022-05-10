@@ -259,6 +259,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://nl.deliveroo.news/news/boodschappen-albert-heijn-amsterdam.html</loc>
+    <lastmod>2022-05-10T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://nl.deliveroo.news/news/deliveroo-breidt-dienstverlening-uit-met-nieuwe-restaurants.html</loc>
     <lastmod>2022-05-10T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -421,6 +427,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://nl.deliveroo.news/news/uitbreiding-vlaardingen.html</loc>
+    <lastmod>2022-05-10T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://nl.deliveroo.news/news/ook-s-middags-met-je-favoriete-eten-op-de-bank.html</loc>
     <lastmod>2022-05-10T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -452,6 +464,36 @@
   </url>
   <url>
     <loc>https://nl.deliveroo.news/about/</loc>
+    <lastmod>2022-05-10T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://nl.deliveroo.news/tag/boodschappen.html</loc>
+    <lastmod>2022-05-10T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://nl.deliveroo.news/tag/albert-heijn.html</loc>
+    <lastmod>2022-05-10T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://nl.deliveroo.news/tag/amsterdam.html</loc>
+    <lastmod>2022-05-10T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://nl.deliveroo.news/tag/uitbreiding.html</loc>
+    <lastmod>2022-05-10T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://nl.deliveroo.news/tag/vlaardingen.html</loc>
     <lastmod>2022-05-10T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -632,12 +674,6 @@
   </url>
   <url>
     <loc>https://nl.deliveroo.news/tag/geliefde-keukens.html</loc>
-    <lastmod>2022-05-10T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://nl.deliveroo.news/tag/amsterdam.html</loc>
     <lastmod>2022-05-10T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -1603,12 +1639,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://nl.deliveroo.news/tag/albert-heijn.html</loc>
-    <lastmod>2022-05-10T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://nl.deliveroo.news/tag/samenwerking-albert-heijn.html</loc>
     <lastmod>2022-05-10T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -1909,12 +1939,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://nl.deliveroo.news/tag/uitbreiding.html</loc>
-    <lastmod>2022-05-10T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://nl.deliveroo.news/tag/bezorgservice.html</loc>
     <lastmod>2022-05-10T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -2048,6 +2072,12 @@
   </url>
   <url>
     <loc>https://nl.deliveroo.news/tag/schiphol.html</loc>
+    <lastmod>2022-05-10T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://nl.deliveroo.news/archive/2022.html</loc>
     <lastmod>2022-05-10T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
